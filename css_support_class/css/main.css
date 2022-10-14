@@ -12,3 +12,15 @@ header li {
     width: 1366px;
     margin: 0 auto;
 }
+
+.articles {
+    display: flex;
+}
+
+.articles article img {
+    height: 180px;
+}
+
+.articles article {
+    width: 30px;
+}
