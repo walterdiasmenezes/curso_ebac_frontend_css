@@ -15,4 +15,15 @@ header li {
 
 .articles {
     display: flex;
+    flex-wrap: wrap;
 }
+
+.articles article img {
+    height: 180px;
+}
+
+.articles article {
+    width: 30%;
+}
+
+
