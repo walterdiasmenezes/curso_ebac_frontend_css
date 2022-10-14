@@ -4,6 +4,14 @@
     padding: 0;
 }
 
+body > header {
+    background-color: black;
+    padding: 16px 0;
+}
+
+header .container {
+    display: flex;}
+
 header li {
     display: inline;
 }
@@ -27,4 +35,6 @@ header li {
     width: 30%;
 }
 
-
+section {
+    padding: 16px 0;
+}
